@@ -1,0 +1,63 @@
+# Unity 项目 .gitignore
+# 自动生成的文件不要提交到 Git
+
+# Unity 生成文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 构建输出
+*.exe
+*.dll
+*.so
+*.dylib
+*.unitypackage
+*.app
+
+# Visual Studio 缓存
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider 缓存
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity3D 特定
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Crashlytics
+crashlytics-build.properties
+
+# 构建日志
+*.log
+
+# 自动生成的脚本（可选）
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj

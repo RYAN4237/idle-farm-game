@@ -49,7 +49,6 @@ public class SaveSystem : MonoBehaviour
             PlayerPrefs.SetInt   (k + "_locked", plot.isLocked ? 1 : 0);
             if (plot.State == FarmPlot.PlotState.Growing)
             {
-                // GetActiveCrop() returns string directly
                 PlayerPrefs.SetString(k + "_crop",  plot.GetActiveCrop() ?? "");
                 PlayerPrefs.SetFloat (k + "_timer", plot.GetGrowTimerRemaining());
             }
@@ -80,6 +79,8 @@ public class SaveSystem : MonoBehaviour
             PlayerPrefs.SetString(KEY_UNLOCKED_NODES, string.Join(",", ids));
             PlayerPrefs.SetFloat(KEY_GLOBAL_MULT, ResourceSystem.Instance?.GlobalMultiplier ?? 1f);
         }
+
+        OfflineProgressSystem.Instance?.RecordQuitTime();
 
         PlayerPrefs.Save();
         Debug.Log($"[Save] Saved. FP={rs?.FocusPoints:F0}");
@@ -122,7 +123,6 @@ public class SaveSystem : MonoBehaviour
             if (state == FarmPlot.PlotState.Growing && !string.IsNullOrEmpty(cn) && shop != null)
             {
                 var crop = shop.allCrops.Find(c => c.cropName == cn);
-                // RestoreGrowingState takes a string crop name
                 if (crop != null) { plot.RestoreGrowingState(crop.cropName, timer); continue; }
             }
             plot.SetState(state);
@@ -141,6 +141,12 @@ public class SaveSystem : MonoBehaviour
         float cachedMult = PlayerPrefs.GetFloat(KEY_GLOBAL_MULT, 1f);
         if (ResourceSystem.Instance != null)
             ResourceSystem.Instance.SetGlobalMultiplier(cachedMult);
+
+        float offlineFP = OfflineProgressSystem.Instance?.ApplyOfflineProgress() ?? 0f;
+        if (offlineFP > 0f)
+            OfflineNotification.Show(offlineFP,
+                OfflineProgressSystem.Instance.LastOfflineSeconds,
+                OfflineProgressSystem.Instance.LastOfflineHarvests);
 
         Debug.Log("[Save] Loaded.");
     }

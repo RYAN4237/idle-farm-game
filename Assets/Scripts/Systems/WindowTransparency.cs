@@ -34,13 +34,14 @@ public class WindowTransparency : MonoBehaviour
 
     void Awake()
     {
-        // Camera MUST render to transparent
+#if UNITY_STANDALONE_WIN && !UNITY_EDITOR
         var cam = GetComponent<Camera>();
         if (cam != null)
         {
             cam.clearFlags      = CameraClearFlags.SolidColor;
-            cam.backgroundColor = new Color(0f, 0f, 0f, 0f); // fully transparent
+            cam.backgroundColor = new Color(0f, 0f, 0f, 0f);
         }
+#endif
     }
 
     void Start()

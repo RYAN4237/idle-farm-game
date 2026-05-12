@@ -37,11 +37,11 @@ public class UIManager : MonoBehaviour
     [HideInInspector] public Color           restColor      = Color.cyan;
     [HideInInspector] public Color           completedColor = Color.yellow;
 
-    // Panel: pivot=(1,0.5), anchor right
+    // Panel: pivot=(1,0), anchor right-bottom
     // shown  → anchoredPosition.x = 0   (panel flush with right edge)
-    // hidden → anchoredPosition.x = 210 (panel 210px off-screen right)
+    // hidden → anchoredPosition.x = 260 (panel 260px off-screen right)
     const float SHOWN_X  =   0f;
-    const float HIDDEN_X = 210f;
+    const float HIDDEN_X = 260f;
 
     bool   _open;
     string _tab;

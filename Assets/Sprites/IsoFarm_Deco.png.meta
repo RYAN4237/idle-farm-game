@@ -1,0 +1,2853 @@
+fileFormatVersion: 2
+guid: f5fe0e077da7842c689b2fec05ddd9b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2798070531832185770
+    second: IsoFarm_Deco_0
+  - first:
+      213: -3746980049500256256
+    second: IsoFarm_Deco_1
+  - first:
+      213: -9076661986302147503
+    second: IsoFarm_Deco_2
+  - first:
+      213: -5548384747884410360
+    second: IsoFarm_Deco_3
+  - first:
+      213: -5969932177411414776
+    second: IsoFarm_Deco_4
+  - first:
+      213: 5702621168359408698
+    second: IsoFarm_Deco_5
+  - first:
+      213: 290300009275418718
+    second: IsoFarm_Deco_6
+  - first:
+      213: -2081696517922037578
+    second: IsoFarm_Deco_7
+  - first:
+      213: 6090631928332806269
+    second: IsoFarm_Deco_8
+  - first:
+      213: 3993744014133036318
+    second: IsoFarm_Deco_9
+  - first:
+      213: -3282339085579993727
+    second: IsoFarm_Deco_10
+  - first:
+      213: 9023394762235687905
+    second: IsoFarm_Deco_11
+  - first:
+      213: -7863819028543592235
+    second: IsoFarm_Deco_12
+  - first:
+      213: 8192299787370504492
+    second: IsoFarm_Deco_13
+  - first:
+      213: 5931320655623915904
+    second: IsoFarm_Deco_14
+  - first:
+      213: 3338090274882381743
+    second: IsoFarm_Deco_15
+  - first:
+      213: 3386251845587579582
+    second: IsoFarm_Deco_16
+  - first:
+      213: -7793734188166996063
+    second: IsoFarm_Deco_17
+  - first:
+      213: -4120905391257227305
+    second: IsoFarm_Deco_18
+  - first:
+      213: -1581087638514187893
+    second: IsoFarm_Deco_19
+  - first:
+      213: 2644041254170104610
+    second: IsoFarm_Deco_20
+  - first:
+      213: 3665934355092190703
+    second: IsoFarm_Deco_21
+  - first:
+      213: 1067881813034880016
+    second: IsoFarm_Deco_22
+  - first:
+      213: -8156489076059018638
+    second: IsoFarm_Deco_23
+  - first:
+      213: -3837778391993120943
+    second: IsoFarm_Deco_24
+  - first:
+      213: -7023188805952276445
+    second: IsoFarm_Deco_25
+  - first:
+      213: 6721749423477305172
+    second: IsoFarm_Deco_26
+  - first:
+      213: 8604596153831893353
+    second: IsoFarm_Deco_27
+  - first:
+      213: 6206845605094045232
+    second: IsoFarm_Deco_28
+  - first:
+      213: 6424786132882929041
+    second: IsoFarm_Deco_29
+  - first:
+      213: -4689922542031269985
+    second: IsoFarm_Deco_30
+  - first:
+      213: 6122805706607666035
+    second: IsoFarm_Deco_31
+  - first:
+      213: 8377769258010020161
+    second: IsoFarm_Deco_32
+  - first:
+      213: -6994645069071845517
+    second: IsoFarm_Deco_33
+  - first:
+      213: 3417897678537945106
+    second: IsoFarm_Deco_34
+  - first:
+      213: 6015953038547213719
+    second: IsoFarm_Deco_35
+  - first:
+      213: -5808866726553819570
+    second: IsoFarm_Deco_36
+  - first:
+      213: -486502419535436942
+    second: IsoFarm_Deco_37
+  - first:
+      213: 2410082441863511347
+    second: IsoFarm_Deco_38
+  - first:
+      213: -2894769598801513554
+    second: IsoFarm_Deco_39
+  - first:
+      213: -5027953317550063595
+    second: IsoFarm_Deco_40
+  - first:
+      213: 7532482739498399246
+    second: IsoFarm_Deco_41
+  - first:
+      213: -4267845065466595513
+    second: IsoFarm_Deco_42
+  - first:
+      213: 8248868085133770775
+    second: IsoFarm_Deco_43
+  - first:
+      213: 2831987257201594046
+    second: IsoFarm_Deco_44
+  - first:
+      213: 6450420469934799484
+    second: IsoFarm_Deco_45
+  - first:
+      213: 3614642322966043144
+    second: IsoFarm_Deco_46
+  - first:
+      213: 794663998632946226
+    second: IsoFarm_Deco_47
+  - first:
+      213: 2058990270046117531
+    second: IsoFarm_Deco_48
+  - first:
+      213: -3249190567866235816
+    second: IsoFarm_Deco_49
+  - first:
+      213: 8975420817391745003
+    second: IsoFarm_Deco_50
+  - first:
+      213: -5849372546831403559
+    second: IsoFarm_Deco_51
+  - first:
+      213: 6081326822210305411
+    second: IsoFarm_Deco_52
+  - first:
+      213: -8919078122775448675
+    second: IsoFarm_Deco_53
+  - first:
+      213: -8318546434287185143
+    second: IsoFarm_Deco_54
+  - first:
+      213: -6898812424977178390
+    second: IsoFarm_Deco_55
+  - first:
+      213: 6515793240771321965
+    second: IsoFarm_Deco_56
+  - first:
+      213: 3885975146826466270
+    second: IsoFarm_Deco_57
+  - first:
+      213: -9022018889077224375
+    second: IsoFarm_Deco_58
+  - first:
+      213: 6246694928775957843
+    second: IsoFarm_Deco_59
+  - first:
+      213: 2392049944994765425
+    second: IsoDco_0
+  - first:
+      213: 8909670344864912942
+    second: IsoDco_1
+  - first:
+      213: 9184853536947382882
+    second: IsoDco_2
+  - first:
+      213: -3914925188510485865
+    second: IsoDco_3
+  - first:
+      213: 6867443603561574147
+    second: IsoDco_4
+  - first:
+      213: 4507705803503507911
+    second: IsoDco_5
+  - first:
+      213: -4844192824648095564
+    second: IsoDco_6
+  - first:
+      213: -7279092854408837426
+    second: IsoDco_7
+  - first:
+      213: 8509398563905449591
+    second: IsoDco_8
+  - first:
+      213: 7116018822702091288
+    second: IsoDco_9
+  - first:
+      213: 2164568582667891797
+    second: IsoDco_10
+  - first:
+      213: -5095521595677904554
+    second: IsoDco_11
+  - first:
+      213: -90491271085657760
+    second: IsoDco_12
+  - first:
+      213: -4604026634263446100
+    second: IsoDco_13
+  - first:
+      213: -2927676417411832101
+    second: IsoDco_14
+  - first:
+      213: 8805425494832806060
+    second: IsoDco_15
+  - first:
+      213: -3984390381524452631
+    second: IsoDco_16
+  - first:
+      213: 7964804783920909575
+    second: IsoDco_17
+  - first:
+      213: -3274885470188875173
+    second: IsoDco_18
+  - first:
+      213: -2043294154607427884
+    second: IsoDco_19
+  - first:
+      213: -1130924129489127920
+    second: IsoDco_20
+  - first:
+      213: 3774507975578686026
+    second: IsoDco_21
+  - first:
+      213: 3186554891857557305
+    second: IsoDco_22
+  - first:
+      213: 708875693482551275
+    second: IsoDco_23
+  - first:
+      213: -5959716675982295667
+    second: IsoDco_24
+  - first:
+      213: -74745727887682320
+    second: IsoDco_25
+  - first:
+      213: -8312289398916460799
+    second: IsoDco_26
+  - first:
+      213: 4509693731217209870
+    second: IsoDco_27
+  - first:
+      213: -864906881052639077
+    second: IsoDco_28
+  - first:
+      213: 4579548569542923405
+    second: IsoDco_29
+  - first:
+      213: -1073539844031125025
+    second: IsoDco_30
+  - first:
+      213: 7003977840333625764
+    second: IsoDco_31
+  - first:
+      213: -8944691417157753088
+    second: IsoDco_32
+  - first:
+      213: 6659769802812309358
+    second: IsoDco_33
+  - first:
+      213: 5786966450278662881
+    second: IsoDco_34
+  - first:
+      213: 4891287488624934231
+    second: IsoDco_35
+  - first:
+      213: 4289107847759179363
+    second: IsoDco_36
+  - first:
+      213: -8375501317022570051
+    second: IsoDco_37
+  - first:
+      213: 5483816049229875674
+    second: IsoDco_38
+  - first:
+      213: 8413908012657401292
+    second: IsoDco_39
+  - first:
+      213: 6645146423027853136
+    second: IsoDco_40
+  - first:
+      213: 9083769980725964459
+    second: IsoDco_41
+  - first:
+      213: 4339242096967623896
+    second: IsoDco_42
+  - first:
+      213: 8115338114459220278
+    second: IsoDco_43
+  - first:
+      213: 9021800476043562432
+    second: IsoDco_44
+  - first:
+      213: 2349282440592940312
+    second: IsoDco_45
+  - first:
+      213: -458221598848387961
+    second: IsoDco_46
+  - first:
+      213: 4422531907729414494
+    second: IsoDco_47
+  - first:
+      213: -4585133677605889280
+    second: IsoDco_48
+  - first:
+      213: -8019958464190644380
+    second: IsoDco_49
+  - first:
+      213: 7206348803276930585
+    second: IsoDco_50
+  - first:
+      213: -8458811306960017621
+    second: IsoDco_51
+  - first:
+      213: 7691067360283962554
+    second: IsoDco_52
+  - first:
+      213: -2188172601541263637
+    second: IsoDco_53
+  - first:
+      213: 5577254854698017909
+    second: IsoDco_54
+  - first:
+      213: -8399837802308928313
+    second: IsoDco_55
+  - first:
+      213: 1413121044506571372
+    second: IsoDco_56
+  - first:
+      213: -8145217535089364576
+    second: IsoDco_57
+  - first:
+      213: -3041581834512507557
+    second: IsoDco_58
+  - first:
+      213: -6137431303532014595
+    second: IsoDco_59
+  - first:
+      213: 9196440077751594956
+    second: IsoDco_60
+  - first:
+      213: -22342889547341051
+    second: IsoDco_61
+  - first:
+      213: -1297936815851020296
+    second: IsoDco_62
+  - first:
+      213: -4012266176884146048
+    second: IsoDco_63
+  - first:
+      213: 3246678745011711514
+    second: IsoDco_64
+  - first:
+      213: 8428612493824973389
+    second: IsoDco_65
+  - first:
+      213: -5386040554713674636
+    second: IsoDco_66
+  - first:
+      213: -1586706989332356530
+    second: IsoDco_67
+  - first:
+      213: -8481373439878177291
+    second: IsoDco_68
+  - first:
+      213: 4774326902892561955
+    second: IsoDco_69
+  - first:
+      213: 3322949096986799403
+    second: IsoDco_70
+  - first:
+      213: -2453147211883266302
+    second: IsoDco_71
+  - first:
+      213: -3399968016173335719
+    second: IsoDco_72
+  - first:
+      213: -3279048530104167810
+    second: IsoDco_73
+  - first:
+      213: 8376804340458263388
+    second: IsoDco_74
+  - first:
+      213: 7851112807176310261
+    second: IsoDco_75
+  - first:
+      213: -6768190699741261624
+    second: IsoDco_76
+  - first:
+      213: 1562468197803119666
+    second: IsoDco_77
+  - first:
+      213: -2469359346259414501
+    second: IsoDco_78
+  - first:
+      213: -4715797320027868281
+    second: IsoDco_79
+  - first:
+      213: -8629488604046473729
+    second: IsoDco_80
+  - first:
+      213: 8754549635937223835
+    second: IsoDco_81
+  - first:
+      213: -6604859404460709894
+    second: IsoDco_82
+  - first:
+      213: -2013755605983899237
+    second: IsoDco_83
+  - first:
+      213: 1235176484050024030
+    second: IsoDco_84
+  - first:
+      213: 8302651433761550781
+    second: IsoDco_85
+  - first:
+      213: 1453097156066197591
+    second: IsoDco_86
+  - first:
+      213: 6824305207038766165
+    second: IsoDco_87
+  - first:
+      213: -6422426623171744797
+    second: IsoDco_88
+  - first:
+      213: 1066660925215724809
+    second: IsoDco_89
+  - first:
+      213: -6279578434592456048
+    second: IsoDco_90
+  - first:
+      213: -3182390282260892157
+    second: IsoDco_91
+  - first:
+      213: -2783014245549589760
+    second: IsoDco_92
+  - first:
+      213: -8286110272635845771
+    second: IsoDco_93
+  - first:
+      213: 3459891059233502158
+    second: IsoDco_94
+  - first:
+      213: 5558753177138215833
+    second: IsoDco_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IsoDco_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ad76850c4423120800000000000000
+      internalID: 2392049944994765425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26518329f185ab70800000000000000
+      internalID: 8909670344864912942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a2dbfd0a7277f70800000000000000
+      internalID: 9184853536947382882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927a9088446ba9c0800000000000000
+      internalID: -3914925188510485865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fe059729f0e4f50800000000000000
+      internalID: 6867443603561574147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c91bc1ab869e8e30800000000000000
+      internalID: 4507705803503507911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8aa57aa48f5ccb0800000000000000
+      internalID: -4844192824648095564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec680ed7d977bfa90800000000000000
+      internalID: -7279092854408837426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eadcdb8e4771670800000000000000
+      internalID: 8509398563905449591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc62eba6d21c260800000000000000
+      internalID: 7116018822702091288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f3e558a71a0e10800000000000000
+      internalID: 2164568582667891797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65179402b121949b0800000000000000
+      internalID: -5095521595677904554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617aab1ba28ebef0800000000000000
+      internalID: -90491271085657760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad3a485b263b10c0800000000000000
+      internalID: -4604026634263446100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd621e25fcdce57d0800000000000000
+      internalID: -2927676417411832101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87dab95d7233a70800000000000000
+      internalID: 8805425494832806060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea70c6ee0a94b8c0800000000000000
+      internalID: -3984390381524452631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d00fa60cba88e60800000000000000
+      internalID: 7964804783920909575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52dd4514054d82d0800000000000000
+      internalID: -3274885470188875173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4defdfecac2c4a3e0800000000000000
+      internalID: -2043294154607427884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016f1e10f762e40f0800000000000000
+      internalID: -1130924129489127920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a421f3e610fb16430800000000000000
+      internalID: 3774507975578686026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f3728acae83c20800000000000000
+      internalID: 3186554891857557305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7afebffae66d900800000000000000
+      internalID: 708875693482551275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7a165245da4da0800000000000000
+      internalID: -5959716675982295667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4d6c0182376fef0800000000000000
+      internalID: -74745727887682320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc65305d0d4ac80800000000000000
+      internalID: -8312289398916460799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af10f1e86a59e30800000000000000
+      internalID: 4509693731217209870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90011f26cb3ff3f0800000000000000
+      internalID: -864906881052639077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8411471923dd8f30800000000000000
+      internalID: 4579548569542923405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9eb4023350a11f0800000000000000
+      internalID: -1073539844031125025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91bc3bcb0233160800000000000000
+      internalID: 7003977840333625764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a3de0c821ed380800000000000000
+      internalID: -8944691417157753088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f3086c9514c6c50800000000000000
+      internalID: 6659769802812309358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e286fb635f6f4050800000000000000
+      internalID: 5786966450278662881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3dc54e0851e340800000000000000
+      internalID: 4891287488624934231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea605ecd8f58b30800000000000000
+      internalID: 4289107847759179363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ad0f6ded34cb80800000000000000
+      internalID: -8375501317022570051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9ceeb64ad6a1c40800000000000000
+      internalID: 5483816049229875674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdd14b32c434c470800000000000000
+      internalID: 8413908012657401292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0576809d67d483c50800000000000000
+      internalID: 6645146423027853136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae278a6ba8001e70800000000000000
+      internalID: 9083769980725964459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42d2862b5183c30800000000000000
+      internalID: 4339242096967623896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639b788a4097f9070800000000000000
+      internalID: 8115338114459220278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc601cbbfd33d70800000000000000
+      internalID: 9021800476043562432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dda94cee35a9020800000000000000
+      internalID: 2349282440592940312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784fa3432e114a9f0800000000000000
+      internalID: -458221598848387961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59da08a65dff5d30800000000000000
+      internalID: 4422531907729414494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bde9a96355e50c0800000000000000
+      internalID: -4585133677605889280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7784b44263b090800000000000000
+      internalID: -8019958464190644380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef1e24e08120460800000000000000
+      internalID: 7206348803276930585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27279adee34c9a80800000000000000
+      internalID: -8458811306960017621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca351e3092cba60800000000000000
+      internalID: 7691067360283962554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef3e1cc9c02a1e0800000000000000
+      internalID: -2188172601541263637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742914adb3666d40800000000000000
+      internalID: 5577254854698017909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7a76e508cd6b80800000000000000
+      internalID: -8399837802308928313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62717a5a1a6c9310800000000000000
+      internalID: 1413121044506571372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a137ba9ecf56fe80800000000000000
+      internalID: -8145217535089364576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dd99ebf612ac5d0800000000000000
+      internalID: -3041581834512507557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df39c973fb673daa0800000000000000
+      internalID: -6137431303532014595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfac80a68150af70800000000000000
+      internalID: 9196440077751594956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5036645a24f90bff0800000000000000
+      internalID: -22342889547341051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5c4eb75dccfde0800000000000000
+      internalID: -1297936815851020296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08081868b219158c0800000000000000
+      internalID: -4012266176884146048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eeb30fd158e0d20800000000000000
+      internalID: 3246678745011711514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a5bdb086278f470800000000000000
+      internalID: 8428612493824973389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8176e6a0f045b0800000000000000
+      internalID: -5386040554713674636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4227326662eaf9e0800000000000000
+      internalID: -1586706989332356530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd0aceacb1c4a80800000000000000
+      internalID: -8481373439878177291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3268080d501d14240800000000000000
+      internalID: 4774326902892561955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6a94199c7d1e20800000000000000
+      internalID: 3322949096986799403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f35fdab9ba4fdd0800000000000000
+      internalID: -2453147211883266302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7c446a13e0d0d0800000000000000
+      internalID: -3399968016173335719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72dfd92cba7e72d0800000000000000
+      internalID: -3279048530104167810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5317f95a23604470800000000000000
+      internalID: 8376804340458263388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd834b4081c4fc60800000000000000
+      internalID: 7851112807176310261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0d1d10b6e8212a0800000000000000
+      internalID: -6768190699741261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23456ee2c800fa510800000000000000
+      internalID: 1562468197803119666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ba6ff1c21bbdd0800000000000000
+      internalID: -2469359346259414501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783fff2a25f1e8eb0800000000000000
+      internalID: -4715797320027868281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5478ae5d5ed3880800000000000000
+      internalID: -8629488604046473729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944092a2886e7970800000000000000
+      internalID: 8754549635937223835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a8bd9d53d654a0800000000000000
+      internalID: -6604859404460709894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d0e812f3bd04e0800000000000000
+      internalID: -2013755605983899237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b7bec77a342110800000000000000
+      internalID: 1235176484050024030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1be3b5d71f83370800000000000000
+      internalID: 8302651433761550781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c4732a207a2410800000000000000
+      internalID: 1453097156066197591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce468dd6dc4be50800000000000000
+      internalID: 6824305207038766165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb26d18305fed6a0800000000000000
+      internalID: -6422426623171744797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d547c57a8dce00800000000000000
+      internalID: 1066660925215724809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c9e23fa47ad8a0800000000000000
+      internalID: -6279578434592456048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063f2936e0e5d3d0800000000000000
+      internalID: -3182390282260892157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b3a29e94fb069d0800000000000000
+      internalID: -2783014245549589760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57343d5db92d10d80800000000000000
+      internalID: -8286110272635845771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3b92b4690040030800000000000000
+      internalID: 3459891059233502158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsoDco_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb5652098a42d40800000000000000
+      internalID: 5558753177138215833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IsoDco_0: 2392049944994765425
+      IsoDco_1: 8909670344864912942
+      IsoDco_10: 2164568582667891797
+      IsoDco_11: -5095521595677904554
+      IsoDco_12: -90491271085657760
+      IsoDco_13: -4604026634263446100
+      IsoDco_14: -2927676417411832101
+      IsoDco_15: 8805425494832806060
+      IsoDco_16: -3984390381524452631
+      IsoDco_17: 7964804783920909575
+      IsoDco_18: -3274885470188875173
+      IsoDco_19: -2043294154607427884
+      IsoDco_2: 9184853536947382882
+      IsoDco_20: -1130924129489127920
+      IsoDco_21: 3774507975578686026
+      IsoDco_22: 3186554891857557305
+      IsoDco_23: 708875693482551275
+      IsoDco_24: -5959716675982295667
+      IsoDco_25: -74745727887682320
+      IsoDco_26: -8312289398916460799
+      IsoDco_27: 4509693731217209870
+      IsoDco_28: -864906881052639077
+      IsoDco_29: 4579548569542923405
+      IsoDco_3: -3914925188510485865
+      IsoDco_30: -1073539844031125025
+      IsoDco_31: 7003977840333625764
+      IsoDco_32: -8944691417157753088
+      IsoDco_33: 6659769802812309358
+      IsoDco_34: 5786966450278662881
+      IsoDco_35: 4891287488624934231
+      IsoDco_36: 4289107847759179363
+      IsoDco_37: -8375501317022570051
+      IsoDco_38: 5483816049229875674
+      IsoDco_39: 8413908012657401292
+      IsoDco_4: 6867443603561574147
+      IsoDco_40: 6645146423027853136
+      IsoDco_41: 9083769980725964459
+      IsoDco_42: 4339242096967623896
+      IsoDco_43: 8115338114459220278
+      IsoDco_44: 9021800476043562432
+      IsoDco_45: 2349282440592940312
+      IsoDco_46: -458221598848387961
+      IsoDco_47: 4422531907729414494
+      IsoDco_48: -4585133677605889280
+      IsoDco_49: -8019958464190644380
+      IsoDco_5: 4507705803503507911
+      IsoDco_50: 7206348803276930585
+      IsoDco_51: -8458811306960017621
+      IsoDco_52: 7691067360283962554
+      IsoDco_53: -2188172601541263637
+      IsoDco_54: 5577254854698017909
+      IsoDco_55: -8399837802308928313
+      IsoDco_56: 1413121044506571372
+      IsoDco_57: -8145217535089364576
+      IsoDco_58: -3041581834512507557
+      IsoDco_59: -6137431303532014595
+      IsoDco_6: -4844192824648095564
+      IsoDco_60: 9196440077751594956
+      IsoDco_61: -22342889547341051
+      IsoDco_62: -1297936815851020296
+      IsoDco_63: -4012266176884146048
+      IsoDco_64: 3246678745011711514
+      IsoDco_65: 8428612493824973389
+      IsoDco_66: -5386040554713674636
+      IsoDco_67: -1586706989332356530
+      IsoDco_68: -8481373439878177291
+      IsoDco_69: 4774326902892561955
+      IsoDco_7: -7279092854408837426
+      IsoDco_70: 3322949096986799403
+      IsoDco_71: -2453147211883266302
+      IsoDco_72: -3399968016173335719
+      IsoDco_73: -3279048530104167810
+      IsoDco_74: 8376804340458263388
+      IsoDco_75: 7851112807176310261
+      IsoDco_76: -6768190699741261624
+      IsoDco_77: 1562468197803119666
+      IsoDco_78: -2469359346259414501
+      IsoDco_79: -4715797320027868281
+      IsoDco_8: 8509398563905449591
+      IsoDco_80: -8629488604046473729
+      IsoDco_81: 8754549635937223835
+      IsoDco_82: -6604859404460709894
+      IsoDco_83: -2013755605983899237
+      IsoDco_84: 1235176484050024030
+      IsoDco_85: 8302651433761550781
+      IsoDco_86: 1453097156066197591
+      IsoDco_87: 6824305207038766165
+      IsoDco_88: -6422426623171744797
+      IsoDco_89: 1066660925215724809
+      IsoDco_9: 7116018822702091288
+      IsoDco_90: -6279578434592456048
+      IsoDco_91: -3182390282260892157
+      IsoDco_92: -2783014245549589760
+      IsoDco_93: -8286110272635845771
+      IsoDco_94: 3459891059233502158
+      IsoDco_95: 5558753177138215833
+      IsoFarm_Deco_0: 2798070531832185770
+      IsoFarm_Deco_1: -3746980049500256256
+      IsoFarm_Deco_10: -3282339085579993727
+      IsoFarm_Deco_11: 9023394762235687905
+      IsoFarm_Deco_12: -7863819028543592235
+      IsoFarm_Deco_13: 8192299787370504492
+      IsoFarm_Deco_14: 5931320655623915904
+      IsoFarm_Deco_15: 3338090274882381743
+      IsoFarm_Deco_16: 3386251845587579582
+      IsoFarm_Deco_17: -7793734188166996063
+      IsoFarm_Deco_18: -4120905391257227305
+      IsoFarm_Deco_19: -1581087638514187893
+      IsoFarm_Deco_2: -9076661986302147503
+      IsoFarm_Deco_20: 2644041254170104610
+      IsoFarm_Deco_21: 3665934355092190703
+      IsoFarm_Deco_22: 1067881813034880016
+      IsoFarm_Deco_23: -8156489076059018638
+      IsoFarm_Deco_24: -3837778391993120943
+      IsoFarm_Deco_25: -7023188805952276445
+      IsoFarm_Deco_26: 6721749423477305172
+      IsoFarm_Deco_27: 8604596153831893353
+      IsoFarm_Deco_28: 6206845605094045232
+      IsoFarm_Deco_29: 6424786132882929041
+      IsoFarm_Deco_3: -5548384747884410360
+      IsoFarm_Deco_30: -4689922542031269985
+      IsoFarm_Deco_31: 6122805706607666035
+      IsoFarm_Deco_32: 8377769258010020161
+      IsoFarm_Deco_33: -6994645069071845517
+      IsoFarm_Deco_34: 3417897678537945106
+      IsoFarm_Deco_35: 6015953038547213719
+      IsoFarm_Deco_36: -5808866726553819570
+      IsoFarm_Deco_37: -486502419535436942
+      IsoFarm_Deco_38: 2410082441863511347
+      IsoFarm_Deco_39: -2894769598801513554
+      IsoFarm_Deco_4: -5969932177411414776
+      IsoFarm_Deco_40: -5027953317550063595
+      IsoFarm_Deco_41: 7532482739498399246
+      IsoFarm_Deco_42: -4267845065466595513
+      IsoFarm_Deco_43: 8248868085133770775
+      IsoFarm_Deco_44: 2831987257201594046
+      IsoFarm_Deco_45: 6450420469934799484
+      IsoFarm_Deco_46: 3614642322966043144
+      IsoFarm_Deco_47: 794663998632946226
+      IsoFarm_Deco_48: 2058990270046117531
+      IsoFarm_Deco_49: -3249190567866235816
+      IsoFarm_Deco_5: 5702621168359408698
+      IsoFarm_Deco_50: 8975420817391745003
+      IsoFarm_Deco_51: -5849372546831403559
+      IsoFarm_Deco_52: 6081326822210305411
+      IsoFarm_Deco_53: -8919078122775448675
+      IsoFarm_Deco_54: -8318546434287185143
+      IsoFarm_Deco_55: -6898812424977178390
+      IsoFarm_Deco_56: 6515793240771321965
+      IsoFarm_Deco_57: 3885975146826466270
+      IsoFarm_Deco_58: -9022018889077224375
+      IsoFarm_Deco_59: 6246694928775957843
+      IsoFarm_Deco_6: 290300009275418718
+      IsoFarm_Deco_7: -2081696517922037578
+      IsoFarm_Deco_8: 6090631928332806269
+      IsoFarm_Deco_9: 3993744014133036318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

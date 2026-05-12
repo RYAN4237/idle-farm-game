@@ -38,7 +38,7 @@ public class FarmGrid : MonoBehaviour
 
     void Start()
     {
-        BuildGridLines();
+        if (gridColor.a > 0.01f) BuildGridLines();
         BuildHighlight();
     }
 

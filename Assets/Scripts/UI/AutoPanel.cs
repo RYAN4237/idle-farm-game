@@ -14,6 +14,7 @@ public class AutoPanel : MonoBehaviour
     public TextMeshProUGUI fpDisplay;
 
     void OnEnable() => Refresh();
+    void Start()     => Refresh();
 
     void Update()
     {

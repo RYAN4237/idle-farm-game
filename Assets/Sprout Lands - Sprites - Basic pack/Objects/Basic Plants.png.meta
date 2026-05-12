@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -182,7 +182,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Plants_0_0
+      name: Basic Plants_0
       rect:
         serializedVersion: 2
         x: 0
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6465cdb9b5f201930800000000000000
-      internalID: 4111838530292700742
+      spriteID: c57936c6db7bc1840800000000000000
+      internalID: 5196230094273877852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_0_1
+      name: Basic Plants_1
       rect:
         serializedVersion: 2
         x: 16
@@ -219,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38213975846a58f60800000000000000
-      internalID: 8036011939749630595
+      spriteID: 3233b9c935a26dc60800000000000000
+      internalID: 7842502339710366499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_0_2
+      name: Basic Plants_2
       rect:
         serializedVersion: 2
         x: 32
@@ -241,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e025d0e0dc3af0e80800000000000000
-      internalID: -8210163494573747698
+      spriteID: 3da19d5d36a292f60800000000000000
+      internalID: 8009980020533041875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_0_3
+      name: Basic Plants_3
       rect:
         serializedVersion: 2
         x: 48
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d57e9a53f4b749a0800000000000000
-      internalID: -6248827000662886958
+      spriteID: 24b3652d0bbef1c00800000000000000
+      internalID: 873675997408803650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_0_4
+      name: Basic Plants_4
       rect:
         serializedVersion: 2
         x: 64
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9d71e16d28846920800000000000000
-      internalID: 2982658581723184540
+      spriteID: 5a76d70deb8bcb470800000000000000
+      internalID: 8411801333702420389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_0_5
+      name: Basic Plants_5
       rect:
         serializedVersion: 2
         x: 80
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cb0a91835a7c5280800000000000000
-      internalID: -9053226651846308921
+      spriteID: 8489e514d9e0571b0800000000000000
+      internalID: -5659601288151787448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_0
+      name: Basic Plants_6
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4cbdb69f6dd9a5890800000000000000
-      internalID: -7468483485407388732
+      spriteID: 0d82dcde2e9d1aaf0800000000000000
+      internalID: -386788524301670192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_1
+      name: Basic Plants_7
       rect:
         serializedVersion: 2
         x: 16
@@ -351,14 +351,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 120d7dd9babdb0500800000000000000
-      internalID: 363625725067513889
+      spriteID: 1f3c34992e3ab1de0800000000000000
+      internalID: -1361314268720151567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_2
+      name: Basic Plants_8
       rect:
         serializedVersion: 2
         x: 32
@@ -373,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a56b60fa222813fd0800000000000000
-      internalID: -2363965243915848102
+      spriteID: 643462844e3a8c750800000000000000
+      internalID: 6325485877500199750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_3
+      name: Basic Plants_9
       rect:
         serializedVersion: 2
         x: 48
@@ -395,14 +395,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 662816b10ed130970800000000000000
-      internalID: 8719846151888667238
+      spriteID: 19fcb19ada8f12780800000000000000
+      internalID: -8709406779607625839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_4
+      name: Basic Plants_10
       rect:
         serializedVersion: 2
         x: 64
@@ -417,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 887bdfa3c562da410800000000000000
-      internalID: 1489889229298055048
+      spriteID: da0946c084b0f9f80800000000000000
+      internalID: -8097741200915394387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Plants_1_5
+      name: Basic Plants_11
       rect:
         serializedVersion: 2
         x: 80
@@ -439,8 +439,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fcf7f3c13ab262310800000000000000
-      internalID: 1379838315389222863
+      spriteID: 5978c667cf93dc050800000000000000
+      internalID: 5822373649741285269
       vertices: []
       indices: 
       edges: []

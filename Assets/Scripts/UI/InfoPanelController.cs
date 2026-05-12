@@ -1,21 +1,20 @@
 using UnityEngine;
 using TMPro;
 
-/// Updates day, time, and FP display in the InfoPanel every frame.
 public class InfoPanelController : MonoBehaviour
 {
     public TextMeshProUGUI dayLabel;
     public TextMeshProUGUI timeLabel;
     public TextMeshProUGUI fpLabel;
 
-    float _gameMinutes = 480f; // start at 8:00 AM
+    float _gameMinutes = 480f;
     int   _day = 1;
     int   _season = 0;
     static readonly string[] Seasons = { "SPRING", "SUMMER", "AUTUMN", "WINTER" };
 
     void Update()
     {
-        _gameMinutes += Time.deltaTime * 2f; // 1 real sec = 2 in-game mins
+        _gameMinutes += Time.deltaTime * 2f;
         if (_gameMinutes >= 1440f) { _gameMinutes -= 1440f; AdvanceDay(); }
 
         if (dayLabel  != null) dayLabel.text  = $"DAY {_day}, {Seasons[_season % 4]} {_season + 1}";
@@ -23,7 +22,8 @@ public class InfoPanelController : MonoBehaviour
         if (fpLabel   != null)
         {
             float fp = ResourceSystem.Instance != null ? ResourceSystem.Instance.FocusPoints : 0f;
-            fpLabel.text = $"★  {(int)fp} FP";
+            float mult = ResourceSystem.Instance != null ? ResourceSystem.Instance.GlobalMultiplier : 1f;
+            fpLabel.text = mult > 1.01f ? $"★  {(int)fp} FP (x{mult:F2})" : $"★  {(int)fp} FP";
         }
     }
 

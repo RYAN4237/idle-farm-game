@@ -23,7 +23,7 @@ public class InfoPanelController : MonoBehaviour
         {
             float fp = ResourceSystem.Instance != null ? ResourceSystem.Instance.FocusPoints : 0f;
             float mult = ResourceSystem.Instance != null ? ResourceSystem.Instance.GlobalMultiplier : 1f;
-            fpLabel.text = mult > 1.01f ? $"★  {(int)fp} FP (x{mult:F2})" : $"★  {(int)fp} FP";
+            fpLabel.text = mult > 1.01f ? $"{(int)fp} FP (x{mult:F2})" : $"{(int)fp} FP";
         }
     }
 

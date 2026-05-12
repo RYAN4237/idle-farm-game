@@ -10,6 +10,8 @@ public class SaveSystem : MonoBehaviour
     const string KEY_UNLOCKED_CROPS = "save_unlocked_crops";
     const string KEY_SELECTED_CROP  = "save_selected_crop";
     const string KEY_AUTOFARMER_LVL = "save_autofarmer_level";
+    const string KEY_UNLOCKED_NODES = "save_unlocked_nodes";
+    const string KEY_GLOBAL_MULT    = "save_global_multiplier";
 
     float autoSaveTimer = 30f;
 
@@ -72,6 +74,13 @@ public class SaveSystem : MonoBehaviour
         if (AutoFarmer.Instance != null)
             PlayerPrefs.SetInt(KEY_AUTOFARMER_LVL, AutoFarmer.Instance.CurrentLevel);
 
+        if (UnlockTree.Instance != null)
+        {
+            var ids = UnlockTree.Instance.GetUnlockedNodeIds();
+            PlayerPrefs.SetString(KEY_UNLOCKED_NODES, string.Join(",", ids));
+            PlayerPrefs.SetFloat(KEY_GLOBAL_MULT, ResourceSystem.Instance?.GlobalMultiplier ?? 1f);
+        }
+
         PlayerPrefs.Save();
         Debug.Log($"[Save] Saved. FP={rs?.FocusPoints:F0}");
     }
@@ -121,6 +130,17 @@ public class SaveSystem : MonoBehaviour
 
         int afLevel = PlayerPrefs.GetInt(KEY_AUTOFARMER_LVL, 0);
         if (afLevel > 0) AutoFarmer.Instance?.RestoreLevel(afLevel);
+
+        if (UnlockTree.Instance != null)
+        {
+            string nodeStr = PlayerPrefs.GetString(KEY_UNLOCKED_NODES, "");
+            string[] nodeIds = string.IsNullOrEmpty(nodeStr) ? new string[0] : nodeStr.Split(',');
+            UnlockTree.Instance.ApplySaveData(nodeIds);
+        }
+
+        float cachedMult = PlayerPrefs.GetFloat(KEY_GLOBAL_MULT, 1f);
+        if (ResourceSystem.Instance != null)
+            ResourceSystem.Instance.SetGlobalMultiplier(cachedMult);
 
         Debug.Log("[Save] Loaded.");
     }

@@ -7,15 +7,58 @@ public class ResourceSystem : MonoBehaviour
     public static ResourceSystem Instance { get; private set; }
     public float FocusPoints             { get; private set; } = 0f;
     public int   TotalSessionsCompleted  { get; private set; } = 0;
+    public float GlobalMultiplier        { get; private set; } = 1f;
 
     public event Action<float> OnFocusPointsChanged;
     public event Action<float> OnPointsEarned;
     public event Action<int>   OnSessionsChanged;
+    public event Action<float> OnMultiplierChanged;
 
     void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
+    }
+
+    void OnEnable()
+    {
+        if (UnlockTree.Instance != null)
+        {
+            UnlockTree.Instance.OnNodeUnlocked += HandleNodeUnlocked;
+            UnlockTree.Instance.OnUnlockTreeRestored += RecalculateMultiplier;
+        }
+    }
+
+    void OnDisable()
+    {
+        if (UnlockTree.Instance != null)
+        {
+            UnlockTree.Instance.OnNodeUnlocked -= HandleNodeUnlocked;
+            UnlockTree.Instance.OnUnlockTreeRestored -= RecalculateMultiplier;
+        }
+    }
+
+    void Start()
+    {
+        RecalculateMultiplier();
+    }
+
+    private void HandleNodeUnlocked(string nodeId) => RecalculateMultiplier();
+
+    public void RecalculateMultiplier()
+    {
+        float prev = GlobalMultiplier;
+        GlobalMultiplier = UnlockTree.Instance != null
+            ? UnlockTree.Instance.ComputeGlobalMultiplier()
+            : 1f;
+        if (Mathf.Abs(GlobalMultiplier - prev) > 0.001f)
+            OnMultiplierChanged?.Invoke(GlobalMultiplier);
+    }
+
+    public void SetGlobalMultiplier(float value)
+    {
+        GlobalMultiplier = Mathf.Max(1f, value);
+        OnMultiplierChanged?.Invoke(GlobalMultiplier);
     }
 
     public void AddFocusPoints(float amount)
@@ -57,6 +100,7 @@ public class ResourceSystem : MonoBehaviour
         OnFocusPointsChanged = null;
         OnPointsEarned       = null;
         OnSessionsChanged    = null;
+        OnMultiplierChanged  = null;
         if (Instance == this) Instance = null;
     }
 }

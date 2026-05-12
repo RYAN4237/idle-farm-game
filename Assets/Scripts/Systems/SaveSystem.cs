@@ -72,6 +72,8 @@ public class SaveSystem : MonoBehaviour
         if (AutoFarmer.Instance != null)
             PlayerPrefs.SetInt(KEY_AUTOFARMER_LVL, AutoFarmer.Instance.CurrentLevel);
 
+        OfflineProgressSystem.Instance?.RecordQuitTime();
+
         PlayerPrefs.Save();
         Debug.Log($"[Save] Saved. FP={rs?.FocusPoints:F0}");
     }
@@ -121,6 +123,13 @@ public class SaveSystem : MonoBehaviour
 
         int afLevel = PlayerPrefs.GetInt(KEY_AUTOFARMER_LVL, 0);
         if (afLevel > 0) AutoFarmer.Instance?.RestoreLevel(afLevel);
+
+        // Apply offline progress after everything else is restored
+        float offlineFP = OfflineProgressSystem.Instance?.ApplyOfflineProgress() ?? 0f;
+        if (offlineFP > 0f)
+            OfflineNotification.Show(offlineFP,
+                OfflineProgressSystem.Instance.LastOfflineSeconds,
+                OfflineProgressSystem.Instance.LastOfflineHarvests);
 
         Debug.Log("[Save] Loaded.");
     }

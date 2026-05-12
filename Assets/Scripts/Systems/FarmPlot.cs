@@ -116,6 +116,8 @@ public class FarmPlot : MonoBehaviour
         if (ResourceSystem.Instance != null)
             ResourceSystem.Instance.AddFocusPoints(harvestReward);
         StartCoroutine(HarvestFlash());
+        if (HarvestFX.Instance != null)
+            HarvestFX.Instance.PlayAt(transform);
         Plant(_activeCrop);
         Debug.Log($"[FarmPlot] Harvested {_activeCrop}! +{harvestReward} FP");
     }

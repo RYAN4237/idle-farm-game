@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3981b222e0a144e1d94e280a44231dbc, type: 3}
+  m_Name: farm_slot_3
+  m_EditorClassIdentifier: Assembly-CSharp::UnlockNodeData
+  NodeId: farm_slot_3
+  DisplayName: Farm Slot 3
+  PointCost: 3200
+  MultiplierGranted: 0.2
+  PrerequisiteNodeIds:
+  - farm_slot_2
